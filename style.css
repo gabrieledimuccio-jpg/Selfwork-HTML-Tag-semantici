@@ -1,0 +1,19 @@
+*{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+#fonth1{
+    font-family: Arial, Helvetica, sans-serif;
+}
+h2,h3{
+    color: rgb(18, 152, 87);
+}
+header{
+    background-color: blue;
+}
+.image{
+    background-image: url(https://picsum.photos/1800);
+}
+a:hover{
+    color: yellow;
+    background-color: red;
+}
